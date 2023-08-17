@@ -1,5 +1,4 @@
-- 👋 Hi, given name Zayd...
--  i want food
+-  i just want some free food and a good sleep
 
 <!---
 Tez0ice/Tez0ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
