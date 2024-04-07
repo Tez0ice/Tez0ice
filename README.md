@@ -5,7 +5,7 @@
   <li>current students in Universiti Teknologi Malaysia (UTM) in Bachelors of Computer Science in Networking & Security</li>
   <li>me like to code and computers </li>
   <li>me also like some free food and a good sleep</li>
-</ul>current students in Universiti Teknologi Malaysia (UTM) in Bachelors of Computer Science in Networking & Security
+</ul>
 
 
 
