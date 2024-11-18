@@ -1,4 +1,4 @@
-also custo<p align="center">
+<p align="center">
   <img src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif" alt="Header Image" width="600"/>
 </p>
 
