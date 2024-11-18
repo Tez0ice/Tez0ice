@@ -7,7 +7,6 @@
 ### 🎓 About Me
 - 📚 **Student** at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)
 - 💻 Pursuing a **Bachelor's in Computer Science** specializing in **Networking & Security**
-- 🛠️ Passionate about **coding** and **computer technologies**
 - 🍕 Aficionado of **free food** and a good **sleep**
 
 ### 🔧 Skills & Technologies
@@ -24,9 +23,3 @@
 
 ### 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tez0ice&layout=compact&theme=radical)
-
-
-### 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/in/muhdzayyad/])
-- [Email](mailto:muhdzayyad91@gmail.com)
-- [Twitter]([https://twitter.com/Zayyad0__0])
